@@ -16,6 +16,10 @@ Fetching Tasks Assigned to a User
 
 HOW TO RUN THE PROJECT 
 
+git clone https://github.com/harsh9690/Task_Management.git
+cd Task_Management
+
+
 1️⃣ Create a Virtual Environment
 python -m venv venv
 source venv/bin/activate  # Mac/Linux
